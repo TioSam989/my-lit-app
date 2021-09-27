@@ -24,4 +24,4 @@ yarn build
 
 ## 📜 License
 
-[MIT](https://github.com/uriannrima/my-lit-app/blob/main/LICENSE) © [Luciano Lima](https://github.com/uriannrima)
+[MIT](https://github.com/uriannrima/my-lit-app/blob/main/LICENSE.md) © [Luciano Lima](https://github.com/uriannrima)
