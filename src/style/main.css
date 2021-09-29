@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+    --test:red;
+    --main-bg-color: #f3f6f4;
+    --squares-primary-bg-color: #702bd4;
+    --squares-secondary-bg-color: #8D78FE;
+    --divs-bg-color: #FFFFFF;
+    --font-primary-color: #001833;
+    --font-secondary-color: #555555;
+
+    --title-font-size: 32px;
+    --subtitle-font-size: 18px;
+    --content-font-size: 16px;
+
+}

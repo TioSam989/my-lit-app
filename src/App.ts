@@ -3,6 +3,8 @@ import { customElement, html, LitElement } from "lit-element";
 import "./components/BuyingList";
 import "./components/Greetings";
 
+import "tailwindcss/tailwind.css"
+
 @customElement("web-app")
 export class App extends LitElement {
   render() {
